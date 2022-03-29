@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Six+Caps&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Ropa+Sans:ital@0;1&display=swap');
+
+.shape3{
+    position: absolute;
+    width: 259px;
+    height: 326px;
+    left: -21px;
+    top: 330px;
+}
+.shape4{
+    position: absolute;
+    width: 149.27px;
+    height: 130px;
+    left: 1060px;
+    top: 0px;
+    transform: rotate(2.5deg);
+}
+
+.shape5{
+    position: absolute;
+    width: 151.96px;
+    height: 257.6px;
+    left: 1040.55px;
+    top: 356px;
+
+    transform: rotate(3.27deg);
+}
+
+.heading h1{
+    position: absolute;
+    width: 255px;
+    height: 107px;
+    left: 484px;
+    top: -35px;
+
+    font-family: 'Six Caps';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 100%;
+    /* or 96px */
+
+    text-align: center;
+    letter-spacing: 0.095em;
+
+    color: #FFFFFF;
+
+}
+
+.ProGrp1 li h3{
+    position: absolute;
+    width: 150px;
+    height: 28px;
+    left: 294px;
+    top: 135px;
+
+    font-family: 'Ropa Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 26px;
+
+    color: #F3EFF5;
+}
+
+.ProGrp1 li img{
+    position: absolute;
+    width: 212.12px;
+    height: 278px;
+    left: 263px;
+    top: 205px;
+    
+}
+
+.ProGrp1 li p {
+    position: absolute;
+    width: 314px;
+    height: 49px;
+    left: 230px;
+    top: 480px;
+    
+    font-family: 'Ropa Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 26px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+
+.ProGrp2 li h3{
+    position: absolute;
+    width: 145px;
+    height: 25px;
+    left: 755px;
+    top: 135px;
+    
+    font-family: 'Ropa Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 26px;
+    text-align: center;
+    
+    color: #F3EFF5;
+}
+
+.ProGrp2 li img {
+    position: absolute;
+    width: 204.36px;
+    height: 286px;
+    left: 739px;
+    top: 205px;
+}
+
+.ProGrp2 li p{
+    position: absolute;
+    width: 320px;
+    height: 96px;
+    left: 715px;
+    top: 480px;
+
+    font-family: 'Ropa Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 26px;
+    text-align: center;
+
+    color: #FFFFFF;
+}

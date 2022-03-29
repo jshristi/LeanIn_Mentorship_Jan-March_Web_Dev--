@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Six+Caps&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Ropa+Sans:ital@0;1&display=swap');
+
+body{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.container{
+    display: flex;
+}
+.container img{
+    position: absolute;
+    width: 445px;
+    height: 663px;
+    left: 90px;
+    top: 70px;
+    
+    filter: drop-shadow(-20px 10px 4px rgba(135, 135, 135, 0.1));
+
+}
+.container h3{
+    position: absolute;
+    width: 376px;
+    height: 29px;
+    left: 595px;
+    top: 150px;
+    
+    font-family: 'Ropa Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 39px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #F3EFF5;
+    
+    
+}
+.container h1{
+    position: absolute;
+    width: 479px;
+    height: 121px;
+    left: 542px;
+    top: 140px;
+
+    font-family: 'Six Caps';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 130px;
+    line-height: 100%;
+    /* or 130px */
+
+    text-align: center;
+    letter-spacing: 1rem;
+
+    color: #FFFFFF;
+    
+}
+
+.container h5{
+    position: absolute;
+    width: 341px;
+    height: 78px;
+    left: 605px;
+    top: 330px;
+
+    font-family: 'Ropa Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 26px;
+    text-align: center;
+
+    color: #F3EFF5;
+
+}
+
+.container button{
+    background-color: #3CF8F8;
+    color: #fff;
+    position: absolute;
+    width: 164px;
+    height: 57px;
+    left: 700px;
+    top: 460px;
+    font-family: 'Ropa Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 26px;
+    text-align: center;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+}
+
+.container button:hover,
+.container button:active {
+    background-color: #ffffff;
+    color: #000;
+}
+
+.container button a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.container .shape1{     
+    position: absolute;
+    width: 130.15px;
+    height: 150px;
+    left: 790px;
+    top: -300px; 
+}
+.container .shape2{
+    position: absolute;
+    width: 182.04px;
+    height: 308.6px;
+    left: 760px;
+    top: 200px;
+
+}

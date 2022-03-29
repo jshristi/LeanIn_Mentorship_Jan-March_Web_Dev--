@@ -1,0 +1,13 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    color: #fff;
+}
+
+.skills{
+    position: absolute;
+    color: #fff;
+    left: 550px;
+    top: 250px;
+    font-size: 5rem;
+}
